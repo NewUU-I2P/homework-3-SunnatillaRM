@@ -10,6 +10,5 @@ float problemSolution5(float x, float y, char operation) {
     } else if(operation == '/') {
         result = x / y;
     }
-    std::cout << result << std::endl;
    return result;
 }
